@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "PostZen Flow",
+    "slug": "postzen-flow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#f9f9f9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.postzen.flow"
+    }
+  }
+}
